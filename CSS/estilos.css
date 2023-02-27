@@ -37,3 +37,10 @@ body{
     padding: 1em;
     background-color: white;
 }
+.footer{
+    padding: 1em;
+    background-color: rgba(44, 44, 231, 0.788);
+    font-size: .6em;
+    color: #DDD;
+    text-align: center;
+}
